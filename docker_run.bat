@@ -1,0 +1,1 @@
+docker run --rm -v %CD%:/home -it neurosim /bin/bash
